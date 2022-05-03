@@ -14,7 +14,7 @@ void calculate();
 int main() {
 
 	// displays a welcome message
-	std::cout << "Welcome to Calculate. You can calculate the sum, difference, product, quotient and remainder of two integers input (x, y).\n\n";
+	std::cout << "Welcome to Calculate. You can calculate the sum, difference, product, quotient, and remainder of two integers input (x, y).\n\n";
 
 	// calls the calculate() function
 	calculate();
@@ -25,7 +25,7 @@ int main() {
 
 // defines function //
 
-// function calculates the sum, difference, product, quotientand remainder of two integers input by the user
+// function calculates the sum, difference, product, quotient, and remainder of two integers input by the user
 void calculate() {
 
 	// initializes loop check
