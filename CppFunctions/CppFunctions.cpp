@@ -1,5 +1,5 @@
 // CppFunctions.cpp
-// C++ program that uses functions to calculate the sum, difference, product, quotientand remainder of two integers input by the user.
+// C++ program that uses functions to calculate the sum, difference, product, quotient, and remainder of two integers input by the user.
 // last edited May 02, 2022 by S. Gutierrez CSCI 112
 
 #include <iostream>
